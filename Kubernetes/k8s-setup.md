@@ -21,7 +21,7 @@
 1. Create an IAM user/role  with Route53, EC2, IAM and S3 full access
 1. Attach IAM role to ubuntu server
 
-    #### Note: If you create IAM user with programmatic access then provide Access keys. 
+    ### Note: If you create IAM user with programmatic access then provide Access keys. 
    ```sh 
      aws configure
     ```
